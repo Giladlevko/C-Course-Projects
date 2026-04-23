@@ -1,5 +1,5 @@
 // Date:3/31/2026
-// Name: Gilad Levkowitz
+// Name: Mr.lad
 // Description:
 // This program prints a table of sine and cosine values
 // for values between 0 and 1 (inclusive) with an increment of 0.1. 

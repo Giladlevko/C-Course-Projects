@@ -1,5 +1,5 @@
 // Date: 4/22/2026
-// Name Gilad Levkowitz 
+// Name Mr.lad
 // Program generates 200 random integers in range [0,49]
 // stores them in a linked list,
 // sorts them using bubble sort,

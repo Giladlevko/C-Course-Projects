@@ -1,5 +1,5 @@
 //Date: 4/13/2026
-//Name: Gilad Levkowitz
+//Name: Mr.lad
 //Description: Computes and prints the next day for several given dates
 
 

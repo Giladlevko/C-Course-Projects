@@ -1,5 +1,5 @@
 // Date: 4/6/2026
-// Name: Gilad Levkowitz
+// Name: Mr.lad
 // Description:
 // This program reads Elephant Seal weight data from a file,
 // stores the values in an array, and calculates the average weight.

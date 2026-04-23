@@ -1,5 +1,5 @@
 // Date: 3/27/2025
-// Name: Gilad Levkowitz
+// Name: Mr.lad
 // Program: sine calculator
 //
 // Description:
